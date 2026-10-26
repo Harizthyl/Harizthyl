@@ -15,7 +15,7 @@
 ### `> whoami`
 
 Hi, I’m **Harizthyl** also known as **Sharky**. I build random stuff, from school projects to personal games and stuff.
-· Learning **ReactJS**
+· Learning **ReactJS** · Professional **AI Prompt Engineer**
 
 ### `> ls skills/`
 
