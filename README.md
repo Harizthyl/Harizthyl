@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,100:19f4ff&height=200&section=header&text=Briar%20Rovic%20Z.%20Elemino&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Briar Rovic Z. Elemino banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=19F4FF&center=true&vCenter=true&width=600&lines=Frontend+developer;UI+tinkerer;Night-shift+problem+solver" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=19F4FF&center=true&vCenter=true&width=600&lines=Student;Back+End+Developer;Game+Developer" alt="Typing intro" />
 
 <br>
 
@@ -14,8 +14,8 @@
 
 ### `> whoami`
 
-Hi, I’m **Briar** (aka Harizthyl). I build fast, odd, memorable things for the web.
-Currently working on **[project]** · Learning **[tech]** · Ask me about **[topic]**
+Hi, I’m **Harizthyl** also known as **Sharky**. I build random stuff, from school projects to personal games and stuff.
+· Learning **ReactJS**
 
 ### `> ls skills/`
 
@@ -23,6 +23,10 @@ Currently working on **[project]** · Learning **[tech]** · Ask me about **[top
 ![React](https://img.shields.io/badge/React-0a0a1f?style=for-the-badge&logo=react&logoColor=19f4ff)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a1f?style=for-the-badge&logo=nodedotjs&logoColor=2bff6a)
 ![Python](https://img.shields.io/badge/Python-0a0a1f?style=for-the-badge&logo=python&logoColor=ff2bd6)
+![C](https://img.shields.io/badge/C-0a0a1f?style=for-the-badge&logo=c&logoColor=19f4ff)
+![C++](https://img.shields.io/badge/C++-0a0a1f?style=for-the-badge&logo=cplusplus&logoColor=ff2bd6)
+![Java](https://img.shields.io/badge/Java-0a0a1f?style=for-the-badge&logo=openjdk&logoColor=ffb800)
+![GDScript](https://img.shields.io/badge/GDScript-0a0a1f?style=for-the-badge&logo=godotengine&logoColor=2bff6a)
 ![Git](https://img.shields.io/badge/Git-0a0a1f?style=for-the-badge&logo=git&logoColor=ff2a3d)
 
 ### `> cat stats.log`
